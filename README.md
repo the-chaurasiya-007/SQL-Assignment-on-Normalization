@@ -1,5 +1,5 @@
 # SQL-Assignment-on-Normalization
-Submission of assignment using MySQL Workbench.
+Submission of assignment at HotWax Workshop[ for DBMS using MySQL Workbench.
 
 
 ### Structure and Normalization Process Explanation
